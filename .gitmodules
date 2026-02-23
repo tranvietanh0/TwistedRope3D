@@ -1,12 +1,12 @@
-[submodule "HyperCasualTemplate/Assets/Submodules/GameFoundationCore"]
-	path = HyperCasualTemplate/Assets/Submodules/GameFoundationCore
+[submodule "UnityTwistedRope3D/Assets/Submodules/GameFoundationCore"]
+	path = UnityTwistedRope3D/Assets/Submodules/GameFoundationCore
 	url = git@github.com:tranvietanh0/GameFoundationCore.git
-[submodule "HyperCasualTemplate/Assets/Submodules/Extensions"]
-	path = HyperCasualTemplate/Assets/Submodules/Extensions
+[submodule "UnityTwistedRope3D/Assets/Submodules/Extensions"]
+	path = UnityTwistedRope3D/Assets/Submodules/Extensions
 	url = git@github.com:tranvietanh0/Unity.Extensions.git
-[submodule "HyperCasualTemplate/Assets/Submodules/Logging"]
-	path = HyperCasualTemplate/Assets/Submodules/Logging
+[submodule "UnityTwistedRope3D/Assets/Submodules/Logging"]
+	path = UnityTwistedRope3D/Assets/Submodules/Logging
 	url = git@github.com:tranvietanh0/Unity.Logging.git
-[submodule "HyperCasualTemplate/Assets/Submodules/UITemplate"]
-	path = HyperCasualTemplate/Assets/Submodules/UITemplate
+[submodule "UnityTwistedRope3D/Assets/Submodules/UITemplate"]
+	path = UnityTwistedRope3D/Assets/Submodules/UITemplate
 	url = git@github.com:tranvietanh0/UITemplate.git
